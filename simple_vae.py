@@ -8,6 +8,7 @@ __mail__ = kq_yuan@outlook.com
 
 __description__==  vae-mnist生成模型
 code reference: https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/variational_autoencoder.py
+
 详细的代码注释： https://jmetzen.github.io/2015-11-27/vae.html
 
 中文教程： https://zhuanlan.zhihu.com/p/34998569（特别通俗易懂），　https://zhuanlan.zhihu.com/p/23705953（图画得还不错）
